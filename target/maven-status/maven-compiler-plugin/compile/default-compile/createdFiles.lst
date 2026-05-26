@@ -1,0 +1,9 @@
+com\udea\kbtvuelo\service\FlightService.class
+com\udea\kbtvuelo\model\Flight.class
+com\udea\kbtvuelo\OpenApiConfig.class
+com\udea\kbtvuelo\exception\ModelNotFoundException.class
+com\udea\kbtvuelo\exception\FlightNotFoundException.class
+com\udea\kbtvuelo\exception\InvalidRating.class
+com\udea\kbtvuelo\dao\IFlightDAO.class
+com\udea\kbtvuelo\KbtvueloApplication.class
+com\udea\kbtvuelo\controller\FlightController.class
